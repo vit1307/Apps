@@ -1,0 +1,6 @@
+[submodule "app1"]
+	path = app1
+	url = https://github.com/vit1307/app1.git
+[submodule "app0"]
+	path = app0
+	url = https://github.com/vit1307/app0.git
